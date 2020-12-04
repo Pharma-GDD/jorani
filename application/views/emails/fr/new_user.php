@@ -20,7 +20,7 @@
     </head>
     <body>
         <h3>{Title}</h3>
-        <p>Bienvenue dans Jorani {Firstname} {Lastname}. Veuillez utiliser ces identifiants pour <a href="{BaseURL}">vous connecter à l'application</a> :</p>
+        <p>Bienvenue {Firstname} {Lastname}. Veuillez utiliser ces identifiants pour <a href="{BaseURL}">vous connecter à l'application</a> :</p>
         <table>
             <tr>
                 <td>Identifiant</td><td>{Login}</td>
